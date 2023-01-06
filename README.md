@@ -1,4 +1,4 @@
-## Deep Learning CNN Bird Classifier 
+## Deep Learning CNN Image Classification for Bird's Species
 Automatically, detecting the species of birds is common but often challenging exercise in ecoacoustics. 
 Surveys of birds belonging to various functional groups over time can give us important information about the health of our ecosystem. The recognition and monitoring of the presence of a particular bird species in a location traditionally requires an ecologist to periodically visit the location, stay for a period of time to make observations. Automated detection of bird species through creating machine learning model for species recognition can dramatically speed up this process. 
 
