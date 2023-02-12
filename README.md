@@ -11,7 +11,7 @@ In this project, we developed a deep learning convolutional neural network (CNN)
 
 Data set of 450 bird species. 70,626 training images, 22500 test images(5 images per species) and 2250 validation images(5 images per species.  All images are 224 X 224 X 3 color images in jpg format. Data set includes a train set, test set and validation set. Each set contains 450 sub directories, one for each bird species. 
 
-The dataset is available on Kaggle. You can find more information and download the data https://www.kaggle.com/datasets/gpiosenka/100-bird-species?resource=download
+The dataset is available on Kaggle. You can find more information and download the data [here](https://www.kaggle.com/datasets/gpiosenka/100-bird-species?resource=download)
 
 ## Model Architecture and Parameters
 
