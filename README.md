@@ -1,17 +1,6 @@
-# Neural Network-Based image Recognition Using CNN
-Automatically, detecting the species of birds is common but often challenging exercise in ecoacoustics. 
-Surveys of birds belonging to various functional groups over time can give us important information about the health of our ecosystem. The recognition and monitoring of the presence of a particular bird species in a location traditionally requires an ecologist to periodically visit the location, stay for a period of time to make observations. Automated detection of bird species through creating machine learning model for species recognition can dramatically speed up this process. 
-
-In this project, we developed a deep learning convolutional neural network (CNN) classifier of bird species using Python 3, Keras, and Tensorflow.  The model has been trained while different hyperparameters being tuned for best accuracy in predicting the bird species. 
+# Neural Network-Based Image Recognition Using CNN
 
 
-![bird](https://user-images.githubusercontent.com/39967400/203145787-84826dcb-4fbd-417e-9ef5-3f82c22ea813.png)
-
-## Bird Species Dataset
-
-Data set of 450 bird species. 70,626 training images, 22500 test images(5 images per species) and 2250 validation images(5 images per species.  All images are 224 X 224 X 3 color images in jpg format. Data set includes a train set, test set and validation set. Each set contains 450 sub directories, one for each bird species. 
-
-The dataset is available on Kaggle. You can find more information and download the data [here](https://www.kaggle.com/datasets/gpiosenka/100-bird-species?resource=download)
 
 ## Model Architecture and Parameters
 
@@ -62,6 +51,12 @@ Best Results from CNN
 
 ## Further Ideas
 The model had a decent performance on the test dataset. Our future goal is to figure out how to increase the model’s accuracy by either tuning the hyperparameters to better find a well-suited arrangement of the layers or implementing a pretrained model .
+
+## Bird Species Dataset
+
+Data set of 450 bird species. 70,626 training images, 22500 test images(5 images per species) and 2250 validation images(5 images per species.  All images are 224 X 224 X 3 color images in jpg format. Data set includes a train set, test set and validation set. Each set contains 450 sub directories, one for each bird species. 
+
+The dataset is available on Kaggle. You can find more information and download the data [here](https://www.kaggle.com/datasets/gpiosenka/100-bird-species?resource=download)
 
 ## Credits
 [Lucas Hawranke](https://github.com/lucashawranke), [Mahmoud El Hazzouri](https://github.com/melhazzouri), [Mahyar Fazelzade](https://github.com/Mahyar-Fazelzadeh)
